@@ -71,3 +71,5 @@ Enter the valid arithmetic expression: (5+3*2)+(2*4/2)
 Expression: (5+3*2)+(2*4/2)
 Result: 15.00
 
+<img width="688" alt="Output" src="https://github.com/user-attachments/assets/438b31ad-d878-460c-a25d-a463207be8d1" />
+
